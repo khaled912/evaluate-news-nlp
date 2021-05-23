@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color:#ffff;
+    font-family: Poppins,sans-serif;
+}
+
+main {
+    flex: 2;
+}
+
+section {
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+strong{
+    font-family:  Poppins,sans-serif;
+    font-size: larger;
+}

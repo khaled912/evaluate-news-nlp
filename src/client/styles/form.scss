@@ -1,0 +1,30 @@
+form {
+    border: 1px solid rgb(160, 160, 170);
+    border-radius: 5px;
+    padding: 40px;
+    background-color:   #4A707A
+};
+    
+
+
+input {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+    background-color:#C2CBC5;
+    border-radius: 5px;
+    border-color: #4A707A;
+}
+
+input[type="submit" i] {
+    color:#4A707A;
+    font-size: larger;
+    font-family: sans-serif;
+    
+}
+
+strong{
+color: #274249;
+font-size: larger;
+}
