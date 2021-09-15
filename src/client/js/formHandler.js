@@ -34,9 +34,6 @@
     alert( " URL IS NOT Vaild ")
   }
 
-
-
-
     function result(res){
       document.getElementById('irony').innerHTML =`irony: ${res.irony}`;
       document.getElementById('subjectivity').innerHTML =`subjectivity: ${res.subjectivity}`;
